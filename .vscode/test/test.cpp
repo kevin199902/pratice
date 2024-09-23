@@ -13,7 +13,6 @@ int main(int argc, char *argv[]) {
     int num2 = std::atoi(argv[2]);  // argv[2] is the second argument
 
     // Simple addition operation
-    int sum = num1 + num2;
 
     // Display the result
     std::cout << "The sum of the two numbers is: " << sum << std::endl;
